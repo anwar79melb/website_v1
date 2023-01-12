@@ -8,7 +8,7 @@ authors:
 
 date: "2023-01-12"
 
-publication: "Austral Entomology"
+publication: "Dryad, Dataset"
 
 links:
     link: "https://doi.org/10.5061/dryad.2fqz612sn"
