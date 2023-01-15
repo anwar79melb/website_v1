@@ -15,13 +15,13 @@ academia:
 - course:
     degree: M.Sc.
     institution: University of Dhaka
-    major: Zoology (Wildlife)
+    major: Zoology (Wildlife, award: Gold Medal)
     start_date: "2011"
     end_date: "2012"
 - course:
     degree: B.Sc. (Hons)
     institution: University of Dhaka
-    major: Zoology
+    major: Zoology (Award: Dean's Award)
     start_date: "2007"
     end_date: "2011"
     
