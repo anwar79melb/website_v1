@@ -1,44 +1,15 @@
 ---
 date: "2023-01-11T12:16:18-07:00"
-draft: true
+draft: false
 tags:
-- deep_learning
-- neural_networks
-- ai
-title: This is my first blog for this site
+- publication
+- dataset
+- grasshopper
+- intertebrate
+- insect
+- conservation
+- phd
+title: Our recent publication and virtual travel during the COVID19 pandemic
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eget dui justo. Sed bibendum sollicitudin neque, et iaculis ligula dapibus eget. Etiam faucibus augue non posuere blandit. Phasellus ex ex, ultricies quis eleifend vel, imperdiet a felis. Sed ipsum velit, ullamcorper nec lacus fermentum, ullamcorper sagittis libero. Pellentesque hendrerit quam eget nunc ullamcorper mattis. Etiam sed nisi ac ipsum semper interdum. Nunc vulputate vitae nibh vitae convallis. Cras in ante arcu. Aliquam tincidunt rhoncus lorem, at porta nibh vehicula ut. Aenean laoreet, nibh in ullamcorper luctus, purus neque sollicitudin velit, vitae euismod odio orci quis erat. Nam cursus lorem et velit pulvinar, sagittis blandit odio cursus. Ut non bibendum ligula. Nam interdum, augue sed commodo mollis, est ante luctus ipsum, in convallis sapien velit ac libero. Fusce vitae ante ac leo commodo semper a id justo.
-
-
-{{< table_of_contents >}}
-
-# Header `I`
-
-Nulla `fermentum blandit metus` sit amet congue. Nunc hendrerit eleifend magna, quis posuere nulla eleifend eget. Pellentesque quis nulla eu massa facilisis sodales in quis urna. Vestibulum aliquam metus id risus volutpat iaculis. Sed malesuada nunc cursus risus consectetur suscipit. Quisque sit amet leo mattis, sagittis purus eu, tristique sapien. Vestibulum gravida dictum aliquam. Etiam magna neque, tempus et aliquet sed, sollicitudin sed tellus. Sed euismod, lorem eget aliquet ultrices, nisl eros hendrerit nunc, in gravida augue leo id diam. Integer sed nisi laoreet, pretium turpis eu, tincidunt tellus. Sed at auctor est, eu consequat urna.
-
-## Header 2
-
-Nulla fermentum blandit metus sit amet congue. Nunc hendrerit eleifend magna, quis posuere nulla eleifend eget. Pellentesque quis nulla eu massa facilisis sodales in quis urna. Vestibulum aliquam metus id risus volutpat iaculis. Sed malesuada nunc cursus risus consectetur suscipit. Quisque sit amet leo mattis, sagittis purus eu, tristique sapien. Vestibulum gravida dictum aliquam. Etiam magna neque, tempus et aliquet sed, sollicitudin sed tellus. Sed euismod, lorem eget aliquet ultrices, nisl eros hendrerit nunc, in gravida augue leo id diam. Integer sed nisi laoreet, pretium turpis eu, tincidunt tellus. Sed at auctor est, eu consequat urna.
-
-```go
-package main
-
-func main() {
-    println("Hello, World!")
-}
-
-```
-
-### Header 3
-
-Nulla fermentum blandit metus sit amet congue. Nunc hendrerit eleifend magna, quis posuere nulla eleifend eget. Pellentesque quis nulla eu massa facilisis sodales in quis urna. Vestibulum aliquam metus id risus volutpat iaculis. Sed malesuada nunc cursus risus consectetur suscipit. Quisque sit amet leo mattis, sagittis purus eu, tristique sapien. Vestibulum gravida dictum aliquam. Etiam magna neque, tempus et aliquet sed, sollicitudin sed tellus. Sed euismod, lorem eget aliquet ultrices, nisl eros hendrerit nunc, in gravida augue leo id diam. Integer sed nisi laoreet, pretium turpis eu, tincidunt tellus. Sed at auctor est, eu consequat urna.
-
-### Header 4
-Nulla `fermentum blandit metus` sit amet congue. Nunc hendrerit eleifend magna, quis posuere nulla eleifend eget. Pellentesque quis nulla eu massa facilisis sodales in quis urna. Vestibulum aliquam metus id risus volutpat iaculis. Sed malesuada nunc cursus risus consectetur suscipit. Quisque sit amet leo mattis, sagittis purus eu, tristique sapien. Vestibulum gravida dictum aliquam. Etiam magna neque, tempus et aliquet sed, sollicitudin sed tellus. Sed euismod, lorem eget aliquet ultrices, nisl eros hendrerit nunc, in gravida augue leo id diam. Integer sed nisi laoreet, pretium turpis eu, tincidunt tellus. Sed at auctor est, eu consequat urna.
-
-Nulla `fermentum blandit metus` sit amet congue. Nunc hendrerit eleifend magna, quis posuere nulla eleifend eget. Pellentesque quis nulla eu massa facilisis sodales in quis urna. Vestibulum aliquam metus id risus volutpat iaculis. Sed malesuada nunc cursus risus consectetur suscipit. Quisque sit amet leo mattis, sagittis purus eu, tristique sapien. Vestibulum gravida dictum aliquam. Etiam magna neque, tempus et aliquet sed, sollicitudin sed tellus. Sed euismod, lorem eget aliquet ultrices, nisl eros hendrerit nunc, in gravida augue leo id diam. Integer sed nisi laoreet, pretium turpis eu, tincidunt tellus. Sed at auctor est, eu consequat urna.
-
-# Header `II`
-
-Nulla fermentum blandit metus sit amet congue. Nunc hendrerit eleifend magna, quis posuere nulla eleifend eget. Pellentesque quis nulla eu massa facilisis sodales in quis urna. Vestibulum aliquam metus id risus volutpat iaculis. Sed malesuada nunc cursus risus consectetur suscipit. Quisque sit amet leo mattis, sagittis purus eu, tristique sapien. Vestibulum gravida dictum aliquam. Etiam magna neque, tempus et aliquet sed, sollicitudin sed tellus. Sed euismod, lorem eget aliquet ultrices, nisl eros hendrerit nunc, in gravida augue leo id diam. Integer sed nisi laoreet, pretium turpis eu, tincidunt tellus. Sed at auctor est, eu consequat urna.
+Recently, we unveiled an article detailing a comprehensive dataset of historical grasshopper occurrences in Australia. This dataset, compiled from field notebooks, forms a chapter of my PhD thesis. Through this research, we were able to recover 8975 geographic coordinates for 477 distinct species of grasshoppers found in Australia. For more information on the background and methodology of this study, please refer to our original [article](https://onlinelibrary.wiley.com/doi/10.1111/aen.12628) and the associated [blog post](https://pursuit.unimelb.edu.au/articles/lockdown-field-trip-reveals-whereabouts-of-australian-grasshoppers) in Unimelb Pursuit.
