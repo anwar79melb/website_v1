@@ -38,7 +38,7 @@ cv: cv.pdf
 date: "2023-01-10 14:47:20 AEDT"
 
 draft: false
-full_name: Md Anwar Hossain
+full_name: Dr. Md Anwar Hossain
 headless: true
 
 interests:
