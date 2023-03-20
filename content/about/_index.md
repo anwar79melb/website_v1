@@ -28,8 +28,8 @@ academia:
 affiliations:
 - affiliation:
     email: anwar79du@gmail.com
-    name: University of Melbourne
-    title: Ecologist
+    name: [WildTeam](www.wildteam.org.bd)
+    title: Research Associate
     
 blog: true
 
