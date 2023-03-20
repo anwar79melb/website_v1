@@ -28,7 +28,7 @@ academia:
 affiliations:
 - affiliation:
     email: anwar79du@gmail.com
-    name: [WildTeam](www.wildteam.org.bd)
+    name: WildTeam, Bangladesh
     title: Research Associate
     
 blog: true
