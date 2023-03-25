@@ -9,7 +9,7 @@ academia:
 - course:
     degree: M.Phil.
     institution: University of Melbourne
-    major: Quantitative Ecology - 90% marks
+    major: Climate Change and Ecology - 90% marks
     start_date: "2016"
     end_date: "2018"
 - course:
