@@ -3,7 +3,7 @@ academia:
 - course:
     degree: Ph.D.
     institution: University of Melbourne
-    major: Quantitative Ecology
+    major: Ecological Modeling
     start_date: "2018"
     end_date: "2023"
 - course:
@@ -28,8 +28,8 @@ academia:
 affiliations:
 - affiliation:
     email: anwar79du@gmail.com
-    name: WildTeam, Bangladesh
-    title: Research Associate
+    name: University of Melbourne
+    title: Ecologist
     
 blog: true
 
