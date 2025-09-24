@@ -8,9 +8,10 @@ authors:
 
 date: "2024-02-03"
 
-publication: "Insect Conservation"
+publication: "Insect Conservation and Diversity"
 
 links:
     link: "https://doi.org/10.1111/icad.12716"
 
 ---
+
