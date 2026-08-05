@@ -48,8 +48,8 @@ full_name: Dr Md Anwar Hossain
 headless: true
 
 interests:
-- Climate Change
-- Ecological Modeling
+- Quantitative Ecology
+- Artificial Intelligence
 - Conservation
 - Biogeography
 - Macroecology
