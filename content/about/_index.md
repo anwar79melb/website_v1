@@ -1,6 +1,12 @@
 ---
 academia:
 - course:
+    degree: Graduate Certificate
+    institution: Victoria University
+    major: Artificial Intelligence
+    start_date: "2026"
+    end_date: "2026"
+  - course:
     degree: Ph.D.
     institution: University of Melbourne
     major: Ecological Modeling
@@ -29,7 +35,7 @@ affiliations:
 - affiliation:
     email: anwar79du@gmail.com
     name: University of Melbourne
-    title: Ecologist
+    title: Quantitative Ecology | Artificial Intelligence | Spatial Modelling
     
 blog: true
 
@@ -62,10 +68,15 @@ socials:
 title: about
 ---
 
-I develop state-of-the-art models to advance applied and theoretical methods for ecology and environmental management. My research encompases a wide range of topics from big data analysis at both local and global scales to field and laboratory experiments on vertebrates and invertebrates in marine, freshwater, and terrestrial ecosystems. I am particularly interested in understanding how organisms respond to changing climates and how their responses vary with time and space. I work at the interface of data science, climate change, macroecology, spatial modeling, uncertainty, and quantitative risk assessment to inform and guide the best scientific and management decision-making processes. 
+I am a quantitative ecologist and data scientist with expertise in ecology, climate change, spatial modelling, and artificial intelligence. My research focuses on developing advanced analytical methods to address complex environmental challenges and improve evidence-based decision-making in ecology, conservation, and natural resource management. I work at the intersection of ecological science, data science, machine learning, and quantitative modelling to understand how organisms and ecosystems respond to environmental change across spatial and temporal scales.
 
-As part of my academic journey, I have undertaken research on a diverse range of topics and organisms, including marine elasmobranchs, freshwater crayfish, and Australian grasshoppers. For my MSc thesis, I conducted a study on the [conservation status of the sawfish in Bangladesh](https://onlinelibrary.wiley.com/doi/10.1002/aqc.2466). During my MPhil, I examined the [impacts of global climate change on freshwater crayfish](https://onlinelibrary.wiley.com/doi/10.1111/ddi.12831), and how [uncertainty in global climate projections](https://onlinelibrary.wiley.com/doi/10.1111/ddi.12936) affects climate change vulnerability assessments. For my PhD, I focused on understanding the [patterns of distribution and adaptive strategies of Australian grasshoppers in response to varying environmental conditions](https://minerva-access.unimelb.edu.au/items/d6602761-b9e9-4dc1-b52d-e0ceb9bae69a). Additionally, I collaborated with my supervisors to create a [database](https://doi.org/10.5061/dryad.2fqz612sn) of Australian [grasshopper occurrences](https://doi.org/10.1111/aen.12628) from historic field survey notebooks spanning 54 years. I utilize various tools such as R, ArcGIS, Python, and high-performance computing systems for data analysis.
+My research spans a diverse range of topics, from large-scale biodiversity and climate change analyses to field and laboratory studies of vertebrates and invertebrates across marine, freshwater, and terrestrial ecosystems. I am particularly interested in species distribution modelling, macroecology, uncertainty quantification, quantitative risk assessment, and the application of artificial intelligence to ecological and environmental research. My technical expertise includes R, Python, ArcGIS, SQL databases, high-performance computing, machine learning, deep learning, and reproducible scientific workflows.
 
-Recently, I successfully completed my PhD and several research contracts with esteemed research groups such as the [Climatic and Metabolic Ecology Lab](https://camel.science.unimelb.edu.au/) and the [Quantitative and Applied Ecology Group](qaeco.com) at the University of Melbourne. I am currently focusing on publishing the chapters of my thesis, while actively seeking out new opportunities in the academic and research fields. 
+Throughout my academic career, I have investigated a broad range of ecological systems and taxa, including marine elasmobranchs, freshwater crayfish, and Australian grasshoppers. My MSc research examined the [conservation status of sawfish in Bangladesh](https://onlinelibrary.wiley.com/doi/10.1002/aqc.2466). During my MPhil, I investigated the [impacts of global climate change on freshwater crayfish](https://onlinelibrary.wiley.com/doi/10.1111/ddi.12831) and evaluated how [uncertainty in climate projections influences vulnerability assessments](https://onlinelibrary.wiley.com/doi/10.1111/ddi.12936). My PhD research explored the [distribution patterns and adaptive strategies of Australian grasshoppers under changing environmental conditions](https://minerva-access.unimelb.edu.au/items/d6602761-b9e9-4dc1-b52d-e0ceb9bae69a), while also leading the digitisation and curation of more than five decades of [historic grasshopper](https://doi.org/10.1111/aen.12628) survey data to create one of Australia's most comprehensive occurrence [databases](https://doi.org/10.5061/dryad.2fqz612sn) for the group.
 
-Please do not hesitate to contact me if you are interested in obtaining a complimentary copy of any of my publications or have any inquiries regarding my research.
+In addition to my research background, I recently completed a Graduate Certificate in Artificial Intelligence with High Distinction, expanding my expertise in machine learning, deep learning, natural language processing, and modern AI methodologies. I am passionate about integrating artificial intelligence with ecological and environmental sciences to develop innovative solutions for biodiversity conservation, climate adaptation, and sustainable environmental management.
+
+I have worked with leading research groups at the University of Melbourne, including the [Climatic and Metabolic Ecology Lab](https://camel.science.unimelb.edu.au/) and the [Quantitative and Applied Ecology Group](https://qaeco.com/), and have contributed to numerous peer-reviewed publications in ecology and conservation science. I am currently seeking opportunities in academia, government, and industry where I can apply my interdisciplinary expertise in quantitative ecology, data science, and artificial intelligence to solve real-world environmental challenges and contribute to impactful research and innovation.
+
+If you are interested in collaboration, discussing research opportunities, or obtaining a copy of any of my publications, please feel free to get in touch.
+
