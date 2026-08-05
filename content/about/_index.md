@@ -33,7 +33,7 @@ academia:
     
 affiliations:
 - affiliation:
-    email: anwar79du@gmail.com
+    email: anwar.wildlife.du3@gmail.com
     name: University of Melbourne
     title: Quantitative Ecology | Artificial Intelligence | Spatial Modelling
     
