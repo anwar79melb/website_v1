@@ -6,7 +6,7 @@ academia:
     major: Artificial Intelligence
     start_date: "2026"
     end_date: "2026"
-  - course:
+- course:
     degree: Ph.D.
     institution: University of Melbourne
     major: Ecological Modeling
