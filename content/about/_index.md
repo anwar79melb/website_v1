@@ -39,6 +39,8 @@ affiliations:
     
 blog: true
 
+models: true
+
 cv: cv.pdf
 
 date: "2023-01-10 14:47:20 AEDT"
