@@ -80,5 +80,3 @@ In addition to my research background, I recently completed a Graduate Certifica
 I have worked with leading research groups at the University of Melbourne, including the [Climatic and Metabolic Ecology Lab](https://camel.science.unimelb.edu.au/) and the [Quantitative and Applied Ecology Group](https://qaeco.com/), and have contributed to numerous peer-reviewed publications in ecology and conservation science. I am currently seeking opportunities in academia, government, and industry where I can apply my interdisciplinary expertise in quantitative ecology, data science, and artificial intelligence to solve real-world environmental challenges and contribute to impactful research and innovation.
 
 If you are interested in collaboration, discussing research opportunities, or obtaining a copy of any of my publications, please feel free to get in touch.
-
-Here Are links for my recent computational Models
