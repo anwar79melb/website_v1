@@ -63,7 +63,8 @@ socials:
   facebook: anwar.melb
   github: anwar79melb
   google_scholar: citations?user=-m1hcisAAAAJ&hl=en
-  
+  linkedin: www.linkedin.com/in/dr-md-anwar-hossain-72863861
+  twitter: Anwar_Wild
   
 title: about
 ---
